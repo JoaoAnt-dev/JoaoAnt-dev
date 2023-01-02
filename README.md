@@ -1,7 +1,11 @@
-- 👋 Hi, I’m @JoaoAnt42, João António
+# 👋 Hey, I'm JoaoAnt
+---
+Data Scientist & Engineer, Cyber Security curious and 
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=JoaoAnt42&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+- 🌱 [Link to my CV](https://app.flowcv.com/resume-feedback/L5bp8wgf2vWM)
 - 👀 I’m interested in Deep Learning, Machine Learning, any thing that sparks my curiosity
-- 🌱 I’m currently working as a Data Scientist
-- 📫 How to reach me email, message, discord, linkedin
 - 📖 I am always learning and on the look out for a new conversation.
 
 <!---
