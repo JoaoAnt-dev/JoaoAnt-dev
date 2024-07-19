@@ -14,6 +14,6 @@ While I thrive in individual endeavors, I am a firm advocate for the power of co
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=JoaoAnt42&show_icons=true" alt="JoaoAnt42 vercel app"/>
 
 <!---
-JoaoAnt42/JoaoAnt42 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+JoaoAnt42/JoaoAnt42 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
 You can click the Preview link to take a look at your changes.
 --->
